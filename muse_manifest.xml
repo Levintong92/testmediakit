@@ -1,0 +1,63 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mediakit.com" resolutions="1x" timestamp="1600683741282">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_home-master.css" crc="4185631" ref="facial:index"/>
+    <file name="facial.css" crc="3862935653" ref="facial"/>
+    <file name="index.css" crc="13829285" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserrat-light.woff" crc="241814887"/>
+    <file name="montserrat-light.eot" crc="133480952"/>
+    <file name="montserrat-bold.woff" crc="3962390889"/>
+    <file name="montserrat-bold.eot" crc="4292412071"/>
+    <file name="avenirnextltpro-boldcn.woff" crc="4106440867"/>
+    <file name="avenirnextltpro-boldcn.eot" crc="3813739826"/>
+  </folder>
+  <folder name="assets">
+    <file name="27_kem-dưỡng-da-mặt-cathy-doll-snail-gold-snail-firming-cream-for-wrinkle-skin-50g.png" crc="474130549" seo="true" mt="1599646442000"/>
+    <file name="28_kem-dưỡng-trắng-da-tức-thì-cathy-doll-ready-2-white-white-boosting-cream-75ml.png" crc="314475961" seo="true" mt="1599646430000"/>
+    <file name="facial-copy.png" crc="4115292898" seo="true" mt="1600668166000"/>
+    <file name="37_nước-hoa-hồng-kết-hợp-tinh-chất-dưỡng-da-cathy-doll-fresh-aloe-vera-toner---essence-300ml.png" crc="4127718658" seo="true" mt="1599646442000"/>
+    <file name="39_nước-tẩy-trang-pha-dầu-cathy-doll-hyaluron-cleasing-oil-in-water-500ml-.png" crc="4092323979" seo="true" mt="1599646409000"/>
+    <file name="41_nước-tẩy-trang-sáng-da-cathy-doll-bright-up-cleansing-water-500ml.png" crc="20023038" seo="true" mt="1599646409000"/>
+    <file name="66_sữa-rửa-mặt-tạo-bọt-dưỡng-ẩm-da-cathy-doll-hya-cushion-facial-foam-cleanser-120ml.png" crc="4067133260" seo="true" mt="1599646408000"/>
+    <file name="67_sữa-rửa-mặt-tạo-bọt-ngăn-ngừa-mụn-cathy-doll-anti-acne-cushion-facial-foam-cleanser-120ml.png" crc="4200507433" seo="true" mt="1599646408000"/>
+    <file name="69_sữa-rửa-mặt-tạo-bọt-trắng-da-cathy-doll-white-cushion-facial-foam-cleanser-120ml.png" crc="4010246992" seo="true" mt="1599646408000"/>
+    <file name="74_tinh-chất-dưỡng-trắng-da-cathy-doll-power-on-l-glutathione-ampoule-5ml.png" crc="3764190759" seo="true" mt="1599646408000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:facial"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:facial"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:facial"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:facial"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:facial"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>facial:tablet>index:tablet>facial:index:facial"/>
+  </folder>
+  <folder name="images">
+    <file name="menu-08.svg" crc="143167038" ref="phone>index:tablet>index:index"/>
+    <file name="menu-08_poster_u309.png" crc="4055449128" ref="phone>index:tablet>index:index"/>
+    <file name="image convert 2_phấn phủ kiềm dầu- copy 4.svg" crc="4124917357" ref="phone>index:tablet>index:index"/>
+    <file name="image convert 2_phấn phủ kiềm dầu- copy 4_poster_u112.png" crc="3846235746" ref="phone>index:tablet>index:index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_home-master.css" crc="435211611" ref="tablet>facial:tablet>index"/>
+      <file name="facial.css" crc="131688429" ref="tablet>facial"/>
+      <file name="index.css" crc="3760845859" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="8018007" seo="true" mt="1600683460082" redirect="true"/>
+    <file name="facial.html" crc="13928341" seo="true" mt="1600683528949" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_home-master.css" crc="3767005453" ref="phone>facial:phone>index"/>
+      <file name="facial.css" crc="36886837" ref="phone>facial"/>
+      <file name="index.css" crc="363331111" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4134012856" seo="true" mt="1600683725387" redirect="true"/>
+    <file name="facial.html" crc="4074998329" seo="true" mt="1600679011959" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4048412256" seo="true" mt="1600683715184" redirect="true"/>
+  <file name="facial.html" crc="231889028" seo="true" mt="1600679011791" redirect="true"/>
+</manifest>
